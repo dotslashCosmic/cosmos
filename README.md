@@ -57,7 +57,7 @@ If you're eager to poke around or contribute, here's what you'll need:
 1.  **Clone the Repository**:
 
     ```bash
-    git clone [https://github.com/dotslashCosmic/cosmos.git](https://github.com/dotslashCosmic/cosmos.git)
+    git clone https://github.com/dotslashCosmic/cosmos.git
     cd cosmos
     ```
 
